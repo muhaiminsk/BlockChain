@@ -1,6 +1,0 @@
-pragma solidity 0.5.1;
-
-contract Counter{
-    uint count = 0;
-    
-}
